@@ -38,10 +38,10 @@
 - [x] Time-series plots for temperature, humidity, wind, rain
 - [x] Correlation matrix heatmap generated
 - [x] Summary & Recommendations cell executed
-- [ ] Actionable recommendations reviewed by team
+- [x] Actionable recommendations reviewed by team
 
 ## 7. Final Validation
 - [x] All outputs present under `outputs/` and `data/`
 - [x] Notebook runs end-to-end without errors (`Run All`)
 - [x] Results cross-checked against Stanhope FWI reference (368 days, FWI MAE=0.37)
-- [ ] Findings documented and communicated to stakeholders
+- [x] Findings documented and communicated to stakeholders (repo: github.com/Pegjoey99/parks-meteo-optimization)
