@@ -30,7 +30,7 @@ Key features:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/parks-meteo-optimization.git
+   git clone https://github.com/Pegjoey99/parks-meteo-optimization.git
    cd parks-meteo-optimization
    ```
 
